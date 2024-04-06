@@ -1,4 +1,4 @@
-# Ransomware
+# 🔒 Ransomware
 
 Um ransomware é um tipo de malware que criptografa os arquivos de um sistema ou bloqueia o acesso a ele, exigindo um pagamento, geralmente em criptomoedas, para restaurar o acesso. Essa forma de ataque cibernético é uma das principais ameaças à segurança da informação atualmente.
 
