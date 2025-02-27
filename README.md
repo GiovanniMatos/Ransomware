@@ -2,7 +2,7 @@
 
 Um ransomware é um tipo de malware que criptografa os arquivos de um sistema ou bloqueia o acesso a ele, exigindo um pagamento, geralmente em criptomoedas, para restaurar o acesso. Essa forma de ataque cibernético é uma das principais ameaças à segurança da informação atualmente.
 
-O projeto foi feito em Flask (Python) para que a função index da rota principal seja executada ao entrar no link, há uma pasta que servirá de exemplo onde serão criados 5 arquivos de texto e os mesmos serão criptografados, em uma situação real código entraria em diversas pastas do Sistema Operacional alvo criptografando todos os arquivos.
+O projeto foi feito em Flask (Python) para que a função index da rota principal seja executada ao entrar no link (para exemplificar, na prática a melhor opção seria um executavel), há uma pasta que servirá de exemplo onde serão criados 5 arquivos de texto e os mesmos serão criptografados, em uma situação real código entraria em diversas pastas do Sistema Operacional alvo criptografando todos os arquivos.
 Ao clicar no link será direcionado ao navegador onde o IP da vítima será mostrado junto à sua cidade e provedor de internet, ao mesmo tempo o processo citado acima estará sendo executado.
 ```bash
 pip install Flask requests
